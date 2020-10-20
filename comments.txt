@@ -2,7 +2,8 @@
 
 news.ycombinator.com##table.comment-tree
 reddit.com##div.commentarea
-youtube.com##ytd-comments#comments
+
+youtube.com###comments
 
 ||disqus.com/embed/comments/
 ###disqus_thread
