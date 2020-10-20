@@ -1,0 +1,4 @@
+[Alex's Comments Blocking]
+
+news.ycombinator.com##table.comment-tree
+reddit.com##div.commentarea
