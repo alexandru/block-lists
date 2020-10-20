@@ -2,3 +2,4 @@
 
 news.ycombinator.com##table.comment-tree
 reddit.com##div.commentarea
+youtube.com##ytd-comments#comments
