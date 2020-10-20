@@ -6,4 +6,7 @@ reddit.com##div.commentarea
 youtube.com###comments
 
 ||disqus.com/embed/comments/
+||disqus.com/embed.js
 ###disqus_thread
+##.dsq-brlink
+##.disqus-container
